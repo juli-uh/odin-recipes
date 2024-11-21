@@ -1,0 +1,31 @@
+h1 {
+    background-color: #ffa500;
+    color: hsl(0, 0%, 0%);
+    padding: 8px;
+    text-align: center;
+    border: 8px solid rgb(163, 6, 163);
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+li {
+    font-size: large;
+    margin: 16px;
+    padding: 8px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.SP {
+    background-color: hsl(60, 100%, 50%);
+    border: 4px dotted #a52a2a;
+}
+
+.W { 
+    background-color: #ffc0cb;
+    border: 4px dotted hsl(240, 100%, 50%); 
+
+}
+
+.S {
+    background-color: hsl(160, 100%, 75%);
+    border: 4px dotted hwb(300 0% 50%);
+}
